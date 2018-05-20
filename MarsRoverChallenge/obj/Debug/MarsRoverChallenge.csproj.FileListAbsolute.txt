@@ -1,0 +1,7 @@
+E:\Coding\Visual Studio\Projects\MarsRoverChallenge\MarsRoverChallenge\obj\Debug\MarsRoverChallenge.csprojAssemblyReference.cache
+E:\Coding\Visual Studio\Projects\MarsRoverChallenge\MarsRoverChallenge\obj\Debug\MarsRoverChallenge.csproj.CoreCompileInputs.cache
+E:\Coding\Visual Studio\Projects\MarsRoverChallenge\MarsRoverChallenge\bin\Debug\MarsRoverChallenge.exe.config
+E:\Coding\Visual Studio\Projects\MarsRoverChallenge\MarsRoverChallenge\bin\Debug\MarsRoverChallenge.exe
+E:\Coding\Visual Studio\Projects\MarsRoverChallenge\MarsRoverChallenge\bin\Debug\MarsRoverChallenge.pdb
+E:\Coding\Visual Studio\Projects\MarsRoverChallenge\MarsRoverChallenge\obj\Debug\MarsRoverChallenge.exe
+E:\Coding\Visual Studio\Projects\MarsRoverChallenge\MarsRoverChallenge\obj\Debug\MarsRoverChallenge.pdb
